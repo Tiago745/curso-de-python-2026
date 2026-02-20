@@ -15,8 +15,10 @@ As datas estipuladas para a entrega dos materiais e gravações são:
 | Data | Entrega / Marco |
 | --- | --- |
 | **30/01** | Entrega dos Roteiros 
-| **indef** | Entrega dos Jupyters (Aula e Exercícios) 
-| **indef** | Gravação das Aulas (vídeos) |
+| **23/02** | Entrega dos Jupyters (Aula e Exercícios) 
+| **27/02** | Gravação da Aula 1 |
+| **27/02** | Gravação da Aula 2 |
+| **indef** | Gravação da Aula 3 |
 
 ---
 
@@ -64,7 +66,7 @@ A estrutura foi condensada para evitar repetições e otimizar o tempo.
 * Pandas: DataFrame e Series.
 * Carregamento de dados (Excel, CSV).
 * Métodos de resumo (`head`, `describe`, `info`) e fatiamento (`loc`, `iloc`).
-* Métodos gráficos básicos (`hist`, `plot`, `scatter`) .
+
 
 
 
@@ -74,6 +76,7 @@ A estrutura foi condensada para evitar repetições e otimizar o tempo.
 * Limpeza de dados (`dropna`, `fillna`, `astype`).
 * Filtragem booleana e Concatenação (`merge`, `concat`).
 * Análise (`diff`, `pct_change`, correlação) .
+* Métodos gráficos básicos (`hist`, `plot`, `scatter`) .
 
 ---
 
