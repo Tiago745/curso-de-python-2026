@@ -8,20 +8,6 @@ Bem-vindo ao repositório oficial de organização e produção de materiais par
 
 ---
 
-## 📅 Cronograma Geral
-
-As datas estipuladas para a entrega dos materiais e gravações são:
-
-| Data | Entrega / Marco |
-| --- | --- |
-| **30/01** | Entrega dos Roteiros 
-| **23/02** | Entrega dos Jupyters (Aula e Exercícios) 
-| **27/02** | Gravação da Aula 1 |
-| **27/02** | Gravação da Aula 2 |
-| **indef** | Gravação da Aula 3 |
-
----
-
 ## 📚 Ementa do Curso (Planejamento 2026)
 
 A estrutura foi condensada para evitar repetições e otimizar o tempo.
